@@ -1,0 +1,4 @@
+Console.WriteLine("Введите любое число"); 
+int N = Convert.ToInt32(Console.ReadLine());
+for (int i = 1; i <= n; i++)
+Console.WriteLine(Math.pow(i,3));
